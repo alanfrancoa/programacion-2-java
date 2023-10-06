@@ -1,5 +1,7 @@
+import java.util.Scanner;
 import modelos.Persona;
 import modelos.Sube;
+
 public class App {
     public static void main(String[] args) {
 		
@@ -13,6 +15,11 @@ public class App {
 		double saldo = pepe.getSube().getSaldo();
 		
 		System.out.println(saldo);
+
+        Scanner sc = new Scanner(System.in);
+        pepe.setCelular(sc);
+        pepe.saludarAlAdmin();
+
 
 	}
 }
