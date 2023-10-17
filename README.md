@@ -1,5 +1,5 @@
 
-![Logo](https://static.vecteezy.com/system/resources/previews/022/101/050/non_2x/java-logo-transparent-free-png.png)
+![Logo](https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png)
 
 
 # Programacion II
